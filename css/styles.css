@@ -14,3 +14,6 @@ li {color:darkred;
 }
 h3 {color:aqua;
 }
+h1 {border-style: double; 
+    border-color: aqua;
+}
