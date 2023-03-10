@@ -1,19 +1,29 @@
 
 body {
-    background-color:darkseagreen
+    background-color:lightblue;
 }
 h1 {
-    color:crimson;
+    text-align: center;
+    color:midnightblue;
 }
 h2 {
-    color:aqua;
+    text-align: center;
+    color:midnightblue;
 }
-p {color:darkred;
+p
+ {color:black;
 }
-li {color:darkred;
+li {color:black;
 }
-h3 {color:aqua;
+h3 {color:midnightblue;
 }
 h1 {border-style: double; 
-    border-color: aqua;
+    border-color:midnightblue;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+hr {color: midnightblue;
 }
